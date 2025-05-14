@@ -7,7 +7,7 @@
 </p>
 
 - 📍 The Randstad, Netherlands
--  🔭 A solid background in AI productization, 10+ years in corporate roles as Lead, Architect (Oracle, Elsevier, UHG), 2 startup experiences as Founder.
+-  🔭 A solid background in AI productization, 10+ years in corporate roles as Lead, Architect (Oracle, Elsevier, UHG), 2 startup experiences as Founder. Now building Pebbling.
 -  📜 Tech Stack: Rust, Python, K8s, KServe, 3D Model Parallelism, LLM Serving
 - 💬 Ask me about **LLM, Agents, MLOps**
 - 🌌 Vision : AI for good.
