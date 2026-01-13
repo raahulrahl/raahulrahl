@@ -6,7 +6,7 @@
 
 I'm Raahul.
 
-I love building agnents that make human' lives easier. You might know me from [Pebbling](https://github.com/Pebbling-ai/pebble), the standard decentralised a2a protocol with better security and role access.
+I love building agnents that make human' lives easier. You might know me from [Bindu](https://github.com/Pebbling-ai/pebble), the standard decentralised a2a protocol with better security and role access.
 
 ## `$ whoami`
 
